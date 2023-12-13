@@ -2,7 +2,7 @@ import socket
 
 def start_client():
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    client.connect(('localhost', 12345))  # Replace 'server_ip' with the server's IP address
+    client.connect(('localhost', 12345))  
 
     while True:
         message = input("You: ")

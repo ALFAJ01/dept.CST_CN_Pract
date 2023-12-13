@@ -2,8 +2,8 @@ import socket
 
 def start_server():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    server.bind(('0.0.0.0', 12345))  # Change the port as needed
-    server.listen(1)  # Allow one client to connect
+    server.bind(('localhost', 12345)) 
+    server.listen(1) 
 
     print("Waiting for a client to connect...")
     conn, addr = server.accept()
