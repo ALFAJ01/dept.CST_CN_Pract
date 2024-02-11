@@ -29,8 +29,7 @@ Client-side:
 
 Main program loop: Connects to the server, receives the welcome message, prompts the user for commands, sends them to the server, displays received responses, and terminates the connection upon receiving "quit" or "exit" from the server.
 # Program Algorithm:
-
-#   Server:
+#  __** Server:**__
 
 Bind the server socket to the address and port.
 Enter a loop:
