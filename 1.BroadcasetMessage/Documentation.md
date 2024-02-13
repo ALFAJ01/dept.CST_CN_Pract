@@ -308,4 +308,4 @@ if __name__ == "__main__":
              * Initializes the client socket, connects to the server, handles welcome messages, prompts for a nickname, and starts threads for receiving and sending messages
 # RESULT _ OUTPUT : 
 ![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/1.BroadcasetMessage/Screenshot_20240121_164139.png)
-![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/1.BroadcasetMessage/2024-02-13%2016-41-36.mkv)
+![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/1.BroadcasetMessage/2024-02-13%2016-41-36.mp4)
