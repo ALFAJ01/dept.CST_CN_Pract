@@ -288,4 +288,4 @@ finally:
      * ### send_expression: 
          * Continuously prompts the user for messages, sends them to the server, and displays received responses.
 # RESULT _ OUTPUT : 
- ![RESULT](/home/mr./Downloads/NBU_MSC/!st_Sem/Practical_Paper/Computer_Network/BroadcastMessge/Screenshot_20240121_164139.png)
+ ![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/6.CountCharacter/Screenshot_20240122_103148.png)
