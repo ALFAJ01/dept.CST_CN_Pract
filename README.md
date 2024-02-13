@@ -10,5 +10,5 @@ When you focus on your own growth, you'll naturally attract success and happines
 # So let's join hands and make the world a happier place, together!s 🫵🏻 
 # Reach Me ..
  _____________________________
-[Linkin Account](https://www.linkedin.com/in/md-afsarul-hoque-748397268/)
+[Linkedin Account](https://www.linkedin.com/in/md-afsarul-hoque-748397268/)
 
