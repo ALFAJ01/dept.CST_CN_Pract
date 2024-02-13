@@ -218,4 +218,4 @@ while  True:
         * Connects to the server, receives the welcome message, prompts the user for host names, sends them to the server, receives and displays the ping results, and terminates upon "quit" or "exit".
 
 # RESULT _ OUTPUT : 
-![RESULT](/home/mr./Downloads/NBU_MSC/!st_Sem/Practical_Paper/Computer_Network/BroadcastMessge/Screenshot_20240121_164139.png)
+![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/3.Ping_An_IP_Addres/Screenshot_20240122_101823.png)
