@@ -62,4 +62,4 @@
 
       ```
 # RESULT _ OUTPUT : 
-![RESULT](/home/mr./Downloads/NBU_MSC/!st_Sem/Practical_Paper/Computer_Network/BroadcastMessge/Screenshot_20240121_164139.png)
+![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/10.ServerPingWithoutICMPPackage/Screenshot_20240122_104744.png)
