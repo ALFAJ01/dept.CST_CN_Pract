@@ -235,4 +235,4 @@ while  True:
        * Continuously prompts the user for commands, sends them to the server, displays received responses, and terminates the connection upon receiving "quit" or "exit" from the server.
         
 # RESULT _ OUTPUT : 
- ![RESULT](/home/mr./Downloads/NBU_MSC/!st_Sem/Practical_Paper/Computer_Network/BroadcastMessge/Screenshot_20240121_164139.png)
+ ![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/7.Multi_Client_Through_Threading/Screenshot_20240122_102935.png)
