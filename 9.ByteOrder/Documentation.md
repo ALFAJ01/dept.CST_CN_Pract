@@ -206,5 +206,6 @@ if __name__ == "__main__":
     ```{python}
     if __name__ == "__main__":
         start_client()
+     ```
   # RESULT OUTPUT :
   ![RESULT}\](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/9.ByteOrder/Screenshot_20240122_104353.png)
