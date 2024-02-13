@@ -240,4 +240,4 @@ send_expression()
      * **send_expression():**
          *  Main program loop for client interaction, including string input, sending, receiving results, and termination.
 # RESULT _ OUTPUT : 
-![RESULT](/home/mr./Downloads/NBU_MSC/!st_Sem/Practical_Paper/Computer_Network/BroadcastMessge/Screenshot_20240121_164139.png)
+![RESULT](https://github.com/ALFAJ01/dept.CST_CN_Pract/blob/master/5.SumOfDigit/Screenshot_20240122_100451.png)
